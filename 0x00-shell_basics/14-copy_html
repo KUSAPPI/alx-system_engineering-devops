@@ -1,2 +1,2 @@
 #!/bin/bash
-git push *.html
+rsync -auv --include='*.html' --exclude='*' . ../
