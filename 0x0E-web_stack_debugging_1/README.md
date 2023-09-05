@@ -2,7 +2,8 @@
 
 ## Resources:books:
 Read or watch:
-
+* [Network basics] (https://intranet.alxswe.com/concepts/33)
+* [Web stack debugging] (https://intranet.alxswe.com/concepts/68)
 ---
 ## Learning Objectives:bulb:
 What you should learn from this project:
